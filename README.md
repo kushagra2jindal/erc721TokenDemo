@@ -18,19 +18,19 @@ Cloning the project
 
 ```git clone https://github.com/kushagra2jindal/erc721TokenDemo.git```
 
-install the npm packages
+Install the npm packages
 
 ```npm install```
 
-compile the smart contract
+Compile the smart contract
 
 ``` truffle compile ```
 
-migrate the smart contract on the ganache
+Migrate the smart contract on the ganache
 
 ``` truffle migrate ```
 
-minting and transfering tokens
+Minting and transfering tokens
 
 ```
 truffle console
